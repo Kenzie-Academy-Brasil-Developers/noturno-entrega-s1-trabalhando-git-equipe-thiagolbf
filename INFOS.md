@@ -1,10 +1,9 @@
-## Fato sobre <nome do dev>
+# Entrega: Trabalhando em equipe com git.
+## Fato sobre <Thiago Lima Barcelos Ferreira>
 
 1. Thiago Lima Barcelos Ferreira
 2. Tenho 32 anos e sou formado em eng.mecatrônica
 3. Sempre trabalhei com automação, comecei as linguagens de TI neste ano (jan/21);
-
-# Entrega: Trabalhando em equipe com git.
 
 ## Fato sobre <William Heckler>
 
