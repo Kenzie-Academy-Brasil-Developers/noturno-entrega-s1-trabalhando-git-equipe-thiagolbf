@@ -1,11 +1,11 @@
 # Entrega: Trabalhando em equipe com git.
-## Fato sobre <Thiago Lima Barcelos Ferreira>
+## Fato sobre Thiago Lima Barcelos Ferreira
 
 1. Thiago Lima Barcelos Ferreira
 2. Tenho 32 anos e sou formado em eng.mecatrônica
 3. Sempre trabalhei com automação, comecei as linguagens de TI neste ano (jan/21);
 
-## Fato sobre <William Heckler>
+## Fato sobre William Heckler
 
 1. William Heckler;
 2. Me chamo William, tenho 26 anos, curso Administração com previsão de formação para março-2023, trabalho atualmente como assistente administrativo na Dental Uni - Cooperativa Odontológica.;
